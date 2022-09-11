@@ -1,0 +1,21 @@
+{
+  "name": "typee",
+  "version": "1.0.0",
+  "description": "typee by feboeoe",
+  "main": "index.js",
+  "scripts": {
+    "test": "noth"
+  },
+  "repository": {
+    "type": "git",
+    "url": "noth"
+  },
+  "keywords": [
+    "key"
+  ],
+  "author": "feb",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.8.3"
+  }
+}
