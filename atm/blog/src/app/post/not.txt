@@ -1,0 +1,4 @@
+-- pass value from parent to child as property
+    -- Input decorator for member of the class
+-- pass data from child to parent by creating event on child
+    --Eventemitter
